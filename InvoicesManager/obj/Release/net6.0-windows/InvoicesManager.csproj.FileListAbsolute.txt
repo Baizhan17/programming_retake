@@ -1,0 +1,17 @@
+C:\Users\WWW\source\repos\R\InvoicesManager\bin\Release\net6.0-windows\InvoicesManager.exe
+C:\Users\WWW\source\repos\R\InvoicesManager\bin\Release\net6.0-windows\InvoicesManager.deps.json
+C:\Users\WWW\source\repos\R\InvoicesManager\bin\Release\net6.0-windows\InvoicesManager.runtimeconfig.json
+C:\Users\WWW\source\repos\R\InvoicesManager\bin\Release\net6.0-windows\InvoicesManager.dll
+C:\Users\WWW\source\repos\R\InvoicesManager\bin\Release\net6.0-windows\InvoicesManager.pdb
+C:\Users\WWW\source\repos\R\InvoicesManager\obj\Release\net6.0-windows\InvoicesManager.csproj.AssemblyReference.cache
+C:\Users\WWW\source\repos\R\InvoicesManager\obj\Release\net6.0-windows\InvoicesManager.Form1.resources
+C:\Users\WWW\source\repos\R\InvoicesManager\obj\Release\net6.0-windows\InvoicesManager.csproj.GenerateResource.cache
+C:\Users\WWW\source\repos\R\InvoicesManager\obj\Release\net6.0-windows\InvoicesManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WWW\source\repos\R\InvoicesManager\obj\Release\net6.0-windows\InvoicesManager.AssemblyInfoInputs.cache
+C:\Users\WWW\source\repos\R\InvoicesManager\obj\Release\net6.0-windows\InvoicesManager.AssemblyInfo.cs
+C:\Users\WWW\source\repos\R\InvoicesManager\obj\Release\net6.0-windows\InvoicesManager.csproj.CoreCompileInputs.cache
+C:\Users\WWW\source\repos\R\InvoicesManager\obj\Release\net6.0-windows\InvoicesManager.dll
+C:\Users\WWW\source\repos\R\InvoicesManager\obj\Release\net6.0-windows\refint\InvoicesManager.dll
+C:\Users\WWW\source\repos\R\InvoicesManager\obj\Release\net6.0-windows\InvoicesManager.pdb
+C:\Users\WWW\source\repos\R\InvoicesManager\obj\Release\net6.0-windows\InvoicesManager.genruntimeconfig.cache
+C:\Users\WWW\source\repos\R\InvoicesManager\obj\Release\net6.0-windows\ref\InvoicesManager.dll
